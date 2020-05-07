@@ -1,0 +1,408 @@
+
+.header-div{
+    background-color: #316DC3;
+}
+.icon{
+    display: inline-block;
+    padding: 20px 12px 20px 12px;
+    color: white;
+}
+.icon:hover{
+    background-color: royalblue;
+    transition-duration: 0.8s;
+}
+.b{
+    font-weight: 400;
+    font-size: 14.7px;
+}
+@media(max-width:1280px){
+    .b{
+        font-size: 14px;
+        font-weight: 400;
+    }
+}
+@media(max-width:1211px){
+    .b{
+        font-size: 13px;
+        font-weight: 400;
+    }
+}
+@media(max-width:1132px){
+    .b{
+        font-size: 12px;
+        font-weight: 400;
+    }
+}
+@media(max-width:1053px){
+    .b{
+        font-size: 11px;
+        font-weight: 400;
+    }
+}
+@media(max-width:991px){
+ .icon-tab{
+     text-align: center;
+}
+.icon{
+    font-size: 20px !important;
+}
+.b{
+    font-size: 18px;
+}
+.b-tag{
+    text-align: center;
+    margin-top: 1% !important;
+}
+
+.button-group{
+    text-align: center;
+    margin-left: -3%;
+    margin-bottom: 1%;
+}
+}
+.button-header{
+    font-size: 12px;
+    color: green;
+    margin-left: 7%;
+    padding: 1px 10px 1px 10px;
+}
+
+.button-header1{
+    font-size: 12px;
+    color: green;
+    padding: 1px 10px 1px 10px;
+}
+.top{
+    background-color: #316dc3;
+    height: 3%;
+}
+.fa{
+    color: white;
+    width: 40px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.fa-facebook{
+    margin-left: 200px;
+}
+.logo{
+    width: 15em;
+    margin-left: 37%;
+}
+.nav{
+color: #919192;
+
+}
+.home{
+    background-color:#316dc3 ;
+    border-radius: 2em;
+    color: white;
+}
+.about:hover{
+    background-color:#316dc3 ;
+    border-radius: 2em;
+    color: white;
+
+}
+.hover:hover{
+    transform: padding .2s linear;
+    background-color:#316dc3 ;
+    
+    color: white;
+
+}
+.about{
+    
+    color:#6c757d;
+
+}
+.service:hover{
+    background-color:#316dc3 ;
+    border-radius: 2em;
+    color: white;
+
+}
+.service{
+    
+    color:#6c757d;
+
+}
+.future:hover{
+    background-color:#316dc3 ;
+    border-radius: 2em;
+    color: white;
+
+}
+.future{
+    
+    color:#6c757d;
+
+}
+.media:hover{
+    background-color:#316dc3 ;
+    border-radius: 2em;
+    color: white;
+
+}
+.media{
+    
+    color:#6c757d;
+
+}
+.news:hover{
+    background-color:#316dc3 ;
+    border-radius: 2em;
+    color: white;
+
+}
+.news{
+    
+    color:#6c757d;
+
+}
+.donate:hover{
+    background-color:#316dc3 ;
+    border-radius: 2em;
+    color: white;
+
+}
+.donate{
+    
+    color:#6c757d;
+}
+.nn{
+    color: #6c757d;
+    
+}
+@media (max-width:768px){
+    .slider{
+        margin-top: 9.2%;
+    }
+}
+@media (max-width:425px){
+    .slider{
+        margin-top: 16.5%;
+    }
+}
+@media (max-width:375px){
+    .slider{
+        margin-top: 19%;
+    }
+}
+@media (max-width:320px){
+    .slider{
+        margin-top: 22%;
+    }
+}
+
+
+.month{
+    background-color: #316dc3;
+}
+.monthly{
+    color: #95ff14;
+}
+.icons{
+    width: 2em;
+    
+}
+.font{
+    font-family: cursive;
+    
+}
+.text{
+    animation: ease-in 2000 3sec 0sec 1 bottom ;
+    
+}
+.box{
+    box-shadow: 5px 10px 8px #888888;
+    width: 25em;
+}
+.bg{
+    background-color: #6c757d50;
+}
+
+/* The grid: Four equal columns that floats next to each other */
+.column {
+    float: left;
+    
+    
+  }
+  
+  /* Style the images inside the grid */
+  .column img {
+    opacity: 0.8;
+    cursor: pointer;
+    width: 15em;
+    
+  }
+  
+  .column img:hover {
+    opacity: 1;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .box-header-icon {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.box-header-icon:before {
+    display: inline-block;
+    margin: 0 7px -11px 0px;
+    height: 2px;
+    content: " ";
+    text-shadow: none;
+    background-color: #427900;
+    width: 36px;
+}
+.box-header-icon:after {
+    display: inline-block;
+    margin: 0px 20px -10px 4px;
+    height: 2px;
+    content: "";
+    text-shadow: none;
+    background-color: #427900;
+    width: 36px;
+}
+.box{
+    border: 1px solid white;
+    box-shadow: 1px 8px 20px 1px rgba(0, 0, 0, 0.16);
+    margin-bottom: 10%;
+}
+.boxes{
+    border: 1px solid white;
+    box-shadow: 1px 8px 20px 1px rgba(0, 0, 0, 0.16);
+    margin-bottom: 10%;
+}
+
+.footer{
+    background-color: rgb(37, 39, 46);
+    margin-top: 13% !important;
+
+}
+.head{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    margin-bottom: 30px;
+
+}
+.head-p{
+    color: #bbb;
+    margin-bottom: 10px;
+}
+.phone-icon::before{
+    content:  "\f095";
+   color:  #427900;
+   margin: 0px 0px 0px -38px;
+}
+.head-li{
+    color: #bbb;
+    list-style: none;
+}
+.span::before{
+    margin: 0px 0px 0px -22px;
+    content: "";
+}
+.globe-icon::before{
+    margin: 0px 0px 0px -38px;
+    content:  "\f0ac";
+   color:  #427900;
+}
+.span-2::before{
+    margin: 0px 0px 0px -19px;
+    content: "";
+}
+/* @media(max-width:500px){
+    .globe-icon::before{
+        margin: 0px 0px 0px 9px;
+        content:  "\f0ac";
+       color:  #427900;
+    }
+    .span-2::before{
+        margin: 0px 0px 0px 3px;
+        content: "";
+    }    
+li{
+    display: inline-block;
+}} */
+.envelope-icon::before{
+    color: #427900;
+    content: "\f003";
+    margin: 0px 0px 0px -38px;
+}
+.head-1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    margin-bottom: 30px;
+    margin-top: 11%;
+}
+.head-h5{
+    color: #fff;
+    padding-bottom: 10px;
+    border-bottom:1px solid #444 ;
+    font-size: 14px;
+    font-family: 'Merriweather', serif;
+}
+.head-h5::after{
+    display: inline-block;
+    margin: 0px 0px -15px -84px;
+    content: "";
+    height: 2px;
+    width: 50px;
+    background-color: #427900;
+
+}
+
+@media(max-width:575px){
+    .head-1{
+        margin-top: 0%;
+    }
+}
+
+.footer-end{
+    background-color: #316DD9;
+}
+
+.counter-header{
+    background-color: rgba(36, 81, 242, 0.932);
+    font-family: 'Merriweather', serif;
+    padding: 40px;
+}
+.counter-h2{
+    font-family: 'Merriweather', serif;
+    color: white;
+    font-weight: 500;
+    font-size: 42px;
+
+}
+.counter-h5{
+    font-weight: 600;
+    font-size: 14px;
+    
+}
+.project-box{
+    border: 1px solid #eeeeee;
+    margin-top: 8%;
+    text-align: center;
+    padding: 20px !important;
+}
+.project-box-image-link{
+    display: table-cell;
+    vertical-align: bottom;
+}
+.project-box-headng{
+    display: table-cell;
+    font-family: 'Merriweather', serif;
+    font-weight: 600;
+    line-height: 1.42857143;
+    color: #316DC3;
+    font-size: 15px;
+}
